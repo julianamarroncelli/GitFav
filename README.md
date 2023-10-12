@@ -24,5 +24,5 @@ Este projeto faz uso das seguintes tecnologias:
 
 ---
 
-Desenvolvido por Juliana Marroncelli  e aprendizado na [Rocketseat](https://rocketseat.com.br/). 🚀
+Desenvolvido por Juliana Marroncelli  em aprendizado na [Rocketseat](https://rocketseat.com.br/). 🚀
 
